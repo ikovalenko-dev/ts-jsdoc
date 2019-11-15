@@ -13,7 +13,7 @@ function createPerson(name, info) {
  * @param {Object} person - some person
  */
 function showPersonInfo(person) {
-	console.log(person.info)
+	console.log(person.info.age)
 }
 
 /**
