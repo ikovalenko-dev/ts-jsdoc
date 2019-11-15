@@ -11,5 +11,3 @@
  * @property {String} social
  * @property {Number} [height]
  */
-
-export default null;

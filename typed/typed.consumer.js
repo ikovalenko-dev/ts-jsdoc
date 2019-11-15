@@ -1,7 +1,6 @@
 // @ts-nocheck
 
-// import unusedVariable from "../model/person";
-
+// import '../model/person';
 
 // /**
 //  * @typedef {import('../model/person').PersonInfo} PersonInfo
