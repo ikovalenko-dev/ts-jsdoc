@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"module": "es6",
+		"allowJs": true,
+		"checkJs": true,
+		"noImplicitAny": true,
+		"sourceMap": true,
+		"noEmit": true
+	},
+	"include": [
+		"./**/*"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
