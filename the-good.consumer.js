@@ -23,7 +23,8 @@ function showPersonInfo(person) {
 const personInfo = { z: 1, y: 2 };
 
 /**
- * @type {Object} person
+ * The person
+ * @type {Object}
  */
 const person = createPerson('134', personInfo);
 
